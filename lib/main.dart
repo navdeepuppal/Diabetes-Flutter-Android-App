@@ -113,6 +113,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
 
     return Scaffold(
       backgroundColor: Colors.white,
+      resizeToAvoidBottomInset: false,
       body: Container(
         width: width,
         child: Stack(

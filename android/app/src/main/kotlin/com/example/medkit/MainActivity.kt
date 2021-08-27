@@ -1,4 +1,4 @@
-package com.example.medkit
+package com.navi.diabetes
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

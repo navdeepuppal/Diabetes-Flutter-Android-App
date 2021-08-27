@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "832123427842",
-    "firebase_url": "https://medkit-ddc31.firebaseio.com",
-    "project_id": "medkit-ddc31",
-    "storage_bucket": "medkit-ddc31.appspot.com"
+    "project_number": "718978760080",
+    "project_id": "diabetes-f38b1",
+    "storage_bucket": "diabetes-f38b1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:832123427842:android:88d72c400e10b6fc40db1b",
+        "mobilesdk_app_id": "1:718978760080:android:35f071d6bec20b8355c715",
         "android_client_info": {
-          "package_name": "com.example.medkit"
+          "package_name": "com.navi.diabetes"
         }
       },
       "oauth_client": [
         {
-          "client_id": "832123427842-sq81v7s4opvt56ag4lkt4mf0da9p5gi9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.medkit",
-            "certificate_hash": "4b3e9a75e857fad6cafe279e707398fcc93261e8"
-          }
-        },
-        {
-          "client_id": "832123427842-98bkdle8ges05olopmtpjphtvgh775k1.apps.googleusercontent.com",
+          "client_id": "718978760080-gvbnj4suc1gfv6ardv6jv7e2qv3tj1ub.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD_yPz-uq7iHTXef6XLBfGt-ANdndCP_Wg"
+          "current_key": "AIzaSyAXo2EP3IZDvSxAxM4cIGHXjHQOFzC7rE0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "832123427842-98bkdle8ges05olopmtpjphtvgh775k1.apps.googleusercontent.com",
+              "client_id": "718978760080-gvbnj4suc1gfv6ardv6jv7e2qv3tj1ub.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

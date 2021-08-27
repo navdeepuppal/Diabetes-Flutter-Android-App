@@ -38,8 +38,8 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.example.medkit"
-        minSdkVersion 16
+        applicationId "com.navi.diabetes"
+        minSdkVersion 21
         targetSdkVersion 28
         multiDexEnabled true
         versionCode flutterVersionCode.toInteger()
